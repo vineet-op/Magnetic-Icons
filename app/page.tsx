@@ -19,7 +19,7 @@ export default function Home() {
           duration: 0.3
         }}
         className="text-white font-sans text-2xl font-bold absolute top-50 lg:text-5xl">
-        Socials
+        Hover on Socials Icons
       </motion.div>
       <div className="max-w-7xl gap-15 inset-0 mx-auto flex justify-evenly items-center">
         <MagnetEffect>
